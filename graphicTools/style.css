@@ -3,7 +3,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(102, 181, 206);
+  background-color: rgb(255, 0, 0);
 }
 
 h1 {
@@ -19,14 +19,14 @@ p {
 }
 
 body {
-  background-color: rgb(95, 201, 236);
+  background-color: rgb(255, 255, 255);
 }
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #11a0e2;
+  background-color: #ffffff;
   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
 }
 
@@ -43,7 +43,7 @@ ul li a {
 }
 
 ul li a:hover {
-  background-color: #006f9b;
+  background-color: #580000;
 
 }
 
